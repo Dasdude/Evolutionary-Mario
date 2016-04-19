@@ -1,0 +1,70 @@
+
+
+
+distance:
+	max : 4800
+	avg : 4382
+	min : 18
+
+distancePerDeath:
+	max : 282
+	avg : 112
+	min : 0
+
+collision:
+	max : 39
+	avg : 10
+	min : 0
+
+kills:
+	max : 39
+	avg : 13
+	min : 0
+
+mushroom:
+	max : 5
+	avg : 0
+	min : 0
+
+flower:
+	max : 2
+	avg : 0
+	min : 0
+
+brick:
+	max : 49
+	avg : 12
+	min : 0
+
+fitness:
+	max : 1061
+	avg : 640
+	min : 0
+
+complexity:
+	max : 144
+	avg : 135
+	min : 123
+	champ : 139
+
+fire:
+	max : 10
+	avg : 0
+	min : 0
+
+shell:
+	max : 13
+	avg : 2
+	min : 0
+
+stomp:
+	max : 25
+	avg : 10
+	min : 0
+
+Global Objective:
+
+death:
+	max : 0
+	avg : 0
+	min : 144
