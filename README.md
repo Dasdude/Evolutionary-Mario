@@ -1,2 +1,2 @@
 # Evolutionary-Mario
-THis is just mario test
+Super Mario Trained on NEAT using ANJI library. Dynamic Fitness.
